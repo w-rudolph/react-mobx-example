@@ -1,0 +1,19 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+.pagePostList {
+  padding: 20px;
+}
+
+.postItem {
+  margin: 10px 0;
+}
+
+.postDetail {
+  padding: 20px;
+}
+
+img {
+  max-width: 100%;
+}
